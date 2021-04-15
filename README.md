@@ -9,3 +9,6 @@ is specified by user input. User can input date range, map name, and whether tea
 ## Tools
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Used for web scraping our data.
 - [Pandas](https://pandas.pydata.org/) Used to sort and organize data that is outputted into CSV file
+
+If unable to load the .ipynb file, paste this link in your URL
+``` https://nbviewer.jupyter.org/github/jacjanowski/CSGO_Data_Science/blob/master/FinalProject_official.ipynb ```
