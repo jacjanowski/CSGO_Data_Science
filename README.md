@@ -4,8 +4,8 @@ We gather information such as players and their ratings, team pistol rounds and 
 is specified by user input. User can input date range, map name, and whether team starts on Terrorist or Counter Terrorist side.
 
 ## Data
-[HLTV](https://www.hltv.org/stats) is where we gather our data.
-
+[HLTV](https://www.hltv.org/stats) first website for scraping.
+[ggScore](https://ggscore.com/en/csgo) second website for scraping.
 ## Tools
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Used for web scraping our data.
 - [Pandas](https://pandas.pydata.org/) Used to sort and organize data that is outputted into CSV file
